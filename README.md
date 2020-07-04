@@ -1,9 +1,9 @@
-<p align="center"><a href="https://store.steampowered.com/app/760330/BYTEPATH/"><img src="https://i.imgur.com/HMNAbOO.png0"></a></p>
+## BYTEPATH
 
 A replayable arcade shooter with a focus on build theorycrafting. Use a massive skill tree, many classes and ships to create your own builds and defeat an ever increasing amount of enemies. 
 
-_[Steam](https://store.steampowered.com/app/760330/BYTEPATH/)
-_[Tutorial](https://github.com/a327ex/blog/issues/30)
+#### [Steam](https://store.steampowered.com/app/760330/BYTEPATH/)
+#### [Tutorial](https://github.com/a327ex/blog/issues/30)
 
 
 ### Running
