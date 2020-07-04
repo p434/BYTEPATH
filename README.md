@@ -2,10 +2,16 @@
 
 A replayable arcade shooter with a focus on build theorycrafting. Use a massive skill tree, many classes and ships to create your own builds and defeat an ever increasing amount of enemies. 
 
-* **[Steam](https://store.steampowered.com/app/760330/BYTEPATH/)**
-* **[Tutorial](https://github.com/a327ex/blog/issues/30)**
+### [Steam](https://store.steampowered.com/app/760330/BYTEPATH/)
+### [Tutorial](https://github.com/a327ex/blog/issues/30)
 
----
+<br>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/409773/41509911-caf3c20a-7231-11e8-96b9-d70596f753f5.gif">
+</p>
+
+<br>
 
 ### Running
 
