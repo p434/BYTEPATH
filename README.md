@@ -11,7 +11,9 @@ A replayable arcade shooter with a focus on build theorycrafting. Use a massive 
 <img src="https://user-images.githubusercontent.com/409773/41509911-caf3c20a-7231-11e8-96b9-d70596f753f5.gif">
 </p>
 
-<br>
+<p align="center">
+<img src="https://i.imgur.com/9E8Stns.gif">
+</p>
 
 ### Running
 
