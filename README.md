@@ -9,13 +9,13 @@ A replayable arcade shooter with a focus on build theorycrafting. Use a massive 
 
 ### Running
 
-Downloading this repository, `cd` into it and then run `love/love.exe --console .`.
+Downloading this repository, `cd` into it and then run `love/love.exe --console .`. If you're on a system other than Windows then download LÖVE 0.10.2 from [here](https://bitbucket.org/rude/love/downloads/) for your specific system and run the appropriate command for running a LÖVE project. On systems other than Windows though I have no idea if the game will be able to be run without problems so you'll probably have to fix something here or there.
 
 ---
 
 ### Tutorial
 
-A full tutorial where the game is built from scratch is available [here](https://github.com/a327ex/blog/issues/30).
+A full tutorial where the game is built from scratch is available [here](https://github.com/a327ex/blog/issues/30). This tutorial goes over the entire process of building the game step by step. The `tutorial` folder in this repository also contains the necessary files to follow along with the tutorial as well as answers to exercises (look into them only after really trying to answer!).
 
 ---
 
