@@ -17,7 +17,7 @@ A replayable arcade shooter with a focus on build theorycrafting. Use a massive 
 
 ### Running
 
-Downloading this repository, `cd` into it and then run `love/love.exe --console .`. If you're on a system other than Windows then download LÖVE 0.10.2 from [here](https://bitbucket.org/rude/love/downloads/) for your specific system and run the appropriate command for running a LÖVE project. On systems other than Windows though I have no idea if the game will be able to be run without problems so you'll probably have to fix something here or there.
+Downloading this repository, `cd` into it and then run `love/love.exe --console .`. If you're on Linux then check [this comment](https://www.reddit.com/r/linux_gaming/comments/hlwzjn/bytepath_a_replayable_arcade_shooter_with_a_focus/fx2j1ss/) on reddit which goes over all needed changes to make it run from a Linux machine.
 
 ---
 
