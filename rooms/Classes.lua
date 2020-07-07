@@ -131,7 +131,7 @@ function Classes:new()
             'Absorbs hits',
             'Absorbed projectiles consume 25 boost',
             'Absorbed hits consume 50 boost',
-            'Cannot absord without enough boost',
+            'Cannot absorb without enough boost',
         },
 
         ['Turner'] = {
